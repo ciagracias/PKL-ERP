@@ -1,4 +1,5 @@
-# PKL-ERP
+# PKL
+## Project : HCM Bot
 
 UI : Dhafin Zhilal S.A.
 
@@ -13,7 +14,7 @@ BACKEND :
 2. Gien Darrel Adli
 
 
-## PROGRESS 04 MEI 2023
+### PROGRESS 04 MEI 2023
 
 UI :
 1. Membuat tampilan desain pemberitahuan
